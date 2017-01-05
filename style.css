@@ -1,0 +1,88 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.wrap{
+	border: 1px solid #ccc;
+	width: 960px;
+	height: 2005px;
+	margin: 0 auto;
+    min-height: 100%;
+    
+}
+.header{
+    width: 100%;
+    height: 180px;
+}
+.logo{
+	margin: 40px 45px;
+	float: left;
+}
+.navigation{
+	float: right;
+	padding-right: 20px;
+ 
+}
+.navigation ul li{
+	float: left;
+	padding-top: 15px;
+	padding-right: 20px;
+	list-style: none;
+}
+.navigation ul li a{
+    color: #464646;    
+    font-size: 20px;
+    text-decoration: none;
+}
+.navigation ul li a:hover{
+    color: #9c67d1;
+}
+.soft{
+    position: relative;
+    top: 45px;
+    right: -100px;
+}
+.group{
+    font-size: 45px;
+    color: #ccc333;
+}
+.test{
+    position: relative;
+    top: -25px;
+    color: #ccc333;
+}
+.left{
+    width: 200px;
+    height: 1500px;
+    float: left;
+}
+.content{
+    min-height: 81%;
+}
+.menu{
+    padding-left: 10px;
+    font-size: 20px;
+}
+.menu ul li{
+    padding-top: 10px;
+    list-style: none;
+}
+.menu ul li a{
+    color: #464646;    
+    font-size: 20px;
+    text-decoration: none;
+}
+.menu ul li a:hover{
+    color: #9c67d1;
+}
+.text_bold{
+    font-weight: 800;
+}
+.pruklad_5, tr, td{
+    border: 1px solid #ccc;
+    width: 50%;   
+}
+.footer{
+    flex: 0 0 auto;
+    padding-left: 40%;
+}
