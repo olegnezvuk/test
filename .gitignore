@@ -1,0 +1,7 @@
+bin/
+cmd/
+dev/
+etc/
+mingw64/
+tmp/
+usr/
